@@ -1,32 +1,32 @@
 [[ReferenceBLAS]]
 arch = "aarch64"
-git-tree-sha1 = "62d4c58d9700eb13521c4497c1d19d32766b9bfe"
+git-tree-sha1 = "88c8e5ceb1300f4186f658fd8bca1275983a4563"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[ReferenceBLAS.download]]
-    sha256 = "4f819b9c7cafc5710b46bc501466478268c0587ccaf42e335dd9896bc2b2f768"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "8985e22893bf28d2d3279d6c197f502c29200df3eff1ca6414c956106d1eb516"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "aarch64"
-git-tree-sha1 = "398030dcf4a72875cfeda0888ea170aae9a63823"
+git-tree-sha1 = "3490526db913dfd8ba10d31f634011fe8a0642ec"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "ab84502733b684ce49adaeb5aa98754b4586534561a3d1c1112f2f7ec4f99ad5"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "8a0ff268c4e945fc1b4d83e5c890e1104ebadb8f414ce967527c13cdb9dfa43c"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "aarch64"
-git-tree-sha1 = "3aa0e75650b1c6009082d805ed25cf97e99fc883"
+git-tree-sha1 = "044d4457a2ef42150f8c6bebfb300611bd43011e"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "868f2f5df15170813ba34b8fe59af973e4fa5f0ce4e75735aa02964b20c9fe13"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "1777e78a772cc0e338b271a22dd474d0b5e37c7d451bc2864c28747aced7d9b3"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -37,7 +37,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "4b0544d5fac882847902b531e023defed7cc8e6dd1c03a50840cd034593af0f9"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -48,7 +48,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "d0c9f88d851a2b10e51956c4e461da3fb8d48f674ed35f5a56f5397554d28a75"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -59,7 +59,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "04905c90c806196e9d89e8374018e2b82749b51209e59a4232e577638f95ac9b"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -70,7 +70,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "33af197ade8e73ed3c8dde79ab90396d3fa818fd793e6fa9f35bfb356984b57d"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -81,7 +81,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "22a0e0f6334c4badd221b497c328e638575a004464287ebbf195766d7ab4a4ba"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -92,7 +92,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "8d5442b8c48e54f66858f240ee46be979f40518627f017b9b747c011335fff8d"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -103,7 +103,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "dfc23b49c4a6281c8339b9cb868877b3ceff9e3b0610b6239f909721bb4c3b88"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -114,7 +114,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "27caacee4d7403cabd8114d590e3a638fb7d8070e3e935a1755d3b32fe12e255"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -125,7 +125,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "962e6f2952a50b22ae0f75422f989036255304ab68fc67468e78da5c3727bc2f"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -136,7 +136,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "e09b61424a24bfc82d5255750a923639eb8ad502c88854fff722389c8adde8b8"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -147,7 +147,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "b3be87c49affcb0b4da07778fc5c0de9f7f270bac1dd41920ea2509397580adf"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -158,7 +158,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "28690021c7a1ebd6e9fb5c83a3c2532cc0f786950c3f908832f07f678e713bdb"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
 git-tree-sha1 = "a58589786e6db0a933bc74d4998ffdccc516d511"
@@ -168,7 +168,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "196c04b58dede7bd1f8af64082c4c9a005a6ca3b225246787a6a2b47ebb3a756"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
 git-tree-sha1 = "c312508a5c4942fa0a5eb66569eef26a2ee66ef4"
@@ -178,7 +178,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "898ccc7ae532013e1f4ed9a3be1316e9083b94a638f2c4956506a8d68fd193bc"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
 git-tree-sha1 = "e5f21b7e1fed81bc8b739e99c42a247f4908a0f9"
@@ -188,7 +188,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "ea04c715feb3dd4933342cb798ac14a5ca8868fa870d2bdf820b9b6aa8c1f267"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
 git-tree-sha1 = "f09c9aac84e0e4c5c1ebdb8ebdb99c2ef1f0c08d"
@@ -198,7 +198,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "5adcebf4f5af92c0f0e01957ec87baf506354ef01f256f7c170966c3231bce3d"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-linux-musl-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-linux-musl-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
 git-tree-sha1 = "d7d0af49b906b199daabff00093f627eddee8b9c"
@@ -208,7 +208,7 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "1e0722b9aa898d49fecdc5f6aedcdf2a34af679ee8b8abfc1f42adca16f7bac1"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-linux-musl-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-linux-musl-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
 git-tree-sha1 = "f8e124370bafca109dd58fc8b5bac3b398d9cdf8"
@@ -218,25 +218,25 @@ os = "linux"
 
     [[ReferenceBLAS.download]]
     sha256 = "cf510b9576fb6802211352e470170e50c2269193e3e0bba08995a6e62cfa8e3e"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-linux-musl-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
-git-tree-sha1 = "a91c6936c119198f3b3fe6743629eb3f10f11a7c"
+git-tree-sha1 = "e8dc373f68c9100441c0395660e62818f143c917"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[ReferenceBLAS.download]]
-    sha256 = "fb705f23d37ce8b123224787e832abe6ec7d34abb82705207d3574f365d8d708"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "74ab0a348a2a1681c4170b3a1ce18c9c068b0ad520bb249d1e395922f39c4e23"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-w64-mingw32-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
-git-tree-sha1 = "e9e1c4eecc608e6108309962dc0d6de0075b0ec9"
+git-tree-sha1 = "0d506f8e49d40b82a08473f985ab654d421b6b87"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[ReferenceBLAS.download]]
-    sha256 = "5e5cf783b54bb8adcf0168284a574d5d1df0094dc95c4db382a8a4007abf2b36"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "3a4730c8153dadc276e37b984d65ad2ac8fdc5a0a9c4b660f84120acc5eb00cc"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "i686"
 git-tree-sha1 = "8828249555005d03c215e4f3ccef863ea6648d78"
@@ -245,175 +245,175 @@ os = "windows"
 
     [[ReferenceBLAS.download]]
     sha256 = "03cbd9e3a6e67ce05db0193ca4707e2a1fba6d25cfd12c36643c31a59541a109"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.i686-w64-mingw32-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "powerpc64le"
-git-tree-sha1 = "465006c3a6cc87211e416eb45b41d263c37a635e"
+git-tree-sha1 = "a01f4a9b137931778d3852ecb25f88b4813f196e"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "270683b64fc9453dd40098ad61f48d55e33697c5ef0d31925ce662e0f1f913ff"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "c7b448ba48a4a3aa2c5f2959cd8473365692409f79f13d45fb9ab139a79aa384"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "powerpc64le"
-git-tree-sha1 = "3e52b9466378ad1a58e02e8842761ffdfa11b2d6"
+git-tree-sha1 = "4b36a706262f0051075de8af567704c089f79bd5"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "f784bf0b399ee3d8ea0893d00757df7f4dff675dad0764291aa4ce209b3b57a5"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "4492a022c6bfa43734797380c4be96eba2597979220a84f320331c1da3797784"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "powerpc64le"
-git-tree-sha1 = "799ac660f90aedafaa3e6df7662981ac23f48baa"
+git-tree-sha1 = "f97aeb125bad7abd4bd42ca4ce57adf2f4279ad4"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "bd8af7daf3379c5902776e1dbe8ca3c3a934c240b9e8af2bff38ba9c1622d9d9"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "db929e9e302dc27521bc90a1d00560ecfe6a2e7399822854c515023910fe1d0d"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "1914f5cd2976b1bdd2f928f707871ae4c2f6e894"
+git-tree-sha1 = "6bbbddae6dbd9d2b097efc05080f1d69da5e1e19"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[ReferenceBLAS.download]]
-    sha256 = "b200d655b8f37db52288264fce607f859dc77ac9579450eee3c74b3036eac43d"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "37936cb3412dab9f4effa437ae1cdbd3df0ef664e6439c1b0f6e39d8b0b4de37"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "c37608a1f8f01c40486e795c7951f3777ef36fc6"
+git-tree-sha1 = "9c2f79da508735f8f7bc779aadee8159e434e6fd"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[ReferenceBLAS.download]]
-    sha256 = "dbed44b2c12eb8527188b89404f976abcf8f010f6d7e2c54bd10e3558ac9996c"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "60cf0f64c4dd466e4cd928b85ded6cc8101994679dad3c9b0db27c440e784bb9"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "e7cf15a412c0eff082796727a8112fc8baca1133"
+git-tree-sha1 = "23b6e9e67920f1aac74efd84ff645289b82f049c"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[ReferenceBLAS.download]]
-    sha256 = "098515c44d300a1d1d5ee1d638d08ade11f773aa30b3b90b4c3f50210d0ca5ce"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "c55a004db6045ae5f110a0b1818be4092b2609e1497342e22908f96c069bd4a5"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "2f877b25a29ccef9a4d8137e7eaed7bf6ee04943"
+git-tree-sha1 = "dbdbc51dd7e36a67c42c13202eb99f28ead2cef4"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "84e22638b33124cc67a55c916370bccf29209b47abafaff968ad56dc9bb5fab6"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "270ffb2d88a4270c9dac940237a6c63c948329a1863d39f0adbe9b622cd245ea"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "310f2a3c04349b8293500d35038cab9387ba7c9d"
+git-tree-sha1 = "d9c65ccec781ce9b75f0f2c2897409a26970125e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "53c7c560edb665238a2509746810a9521371dccf63a8442b316d6f2de7208398"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "3adc923f3882488c1a53f8e3b736e1e2d9bf4d5f6779f1ae7c7e54eba721cdaf"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "e282fdea90600500ff55b45e04d3948832f3eac8"
+git-tree-sha1 = "30ca9ccef7921ce45ec5862b4f997e8148247694"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "71bcd52400d6bec84709834e9eeeb5e180f8b4e4ff1ff300294f709de004ae61"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "162dde4bb6d012e74ba4606adca71a5f0a5f0492d497145528e8cb44d480c32d"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "801f7cef38980978e3f7a65d637b560c6df5d1b1"
+git-tree-sha1 = "06a57049b231f958702015a8d1b0d50e0995adff"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "7211bb8e53e330a71cfdad2f37a2992e557515b34f3200ed48896ed1fb8db15d"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "5d7ac8487ac350f8c0c2c8da3b0361928dac7644e4adcbb0358428acb0bd953c"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "79afe794c2db8bc331e6b2826e4e2ea35722e565"
+git-tree-sha1 = "5f41dd4196d25de8ac24420841d0a2c1ea9a02d9"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "845b88cd8e80e7e5c70188b02e23df550a976a60f977d9729e260caf038cb41e"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "0a8c3251efc086c55904e83e5b2d08f6481b45eb29585810a9bd8b59e6155c9c"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "6aab94518ad4f913c2576278d7c6731a521281e9"
+git-tree-sha1 = "3354e14b644f9288bf907479ddc6fe7837c7e671"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[ReferenceBLAS.download]]
-    sha256 = "5587f9467bb467ac1282cb9b9627aec66513af4b257ac72ce898271b95fb8517"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "a118baead35d1f247befcd731e2a60cfdaae52c18ba0e45730a19f087f20fcac"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "34008cb27609bf155834566e49b5949b3900ee04"
+git-tree-sha1 = "c6bac67885bf120e0298ea0a1ecb3a990b80bb7d"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[ReferenceBLAS.download]]
-    sha256 = "b45f765c05154ba517edb90833052a4d9205cab4d0e8f5909e0fbd3e0c4cadb5"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "01c53050c63a617624889c66d03ad1afea4f5b0dfd596ca6cfc31a469aa287ae"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "4aa5ec871c93e5f098c8523f8f9471bff3c89129"
+git-tree-sha1 = "8041df871b61b61e550f55f1d55181b1d7be9a65"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[ReferenceBLAS.download]]
-    sha256 = "e694063e3fb8d1bd43b66e244d4166e8b1309c3bb8288dca49fb061a1faf25d5"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "30c478ea7b0d5cba05845b2657e0b4abed65cfe2178a4fdc4203d907eb1a1fe6"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "ee657a2dfb5719ad1feb76dd095bc1d6c8b59a8e"
+git-tree-sha1 = "e5afbc250a8f33a0caa3d8eebe5054b664b3096f"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[ReferenceBLAS.download]]
-    sha256 = "4a4cc8c7d69c99924ae770210d188448110b7e3d6a20776b853b6b05f8d64603"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "2f36fbfc1d51250e2158e2cd628b651f4b5ed42a913cdd1b5d1deb6d38c2922e"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "70f887d7796cf8aebda13a595ae01229eec0014a"
+git-tree-sha1 = "966b2e02c01d177ea614fab9132ee25a11d8e965"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[ReferenceBLAS.download]]
-    sha256 = "2de4c6c50fb7e8a3920abb14d12e8ad4e049fd2aad3ed69e90ebbaee548613a2"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "228e9e6ce6925a2b634aff533015b6bbc8e6728baaf943fda2ad98e7e09df108"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "db288b2826357f7548e11977c48478b88a75bb46"
+git-tree-sha1 = "20a6fe831f44f249995dff5e1a5fd4a9e571862b"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[ReferenceBLAS.download]]
-    sha256 = "bfd84a71f5f7d9ed5d1b744d39d647af1063f1e29720b503a8fce4c7e180876f"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "0b9902fc512ce76e04fa22b855be9a879d9c576665a4cba34b4884863d5725ba"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[ReferenceBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "b977f8545221c9ed6185b9c9fb27bb7e1b323139"
+git-tree-sha1 = "b79a790f4a219c769b689d91953f017afd60d7f8"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[ReferenceBLAS.download]]
-    sha256 = "84715e552b3b079533bdad2e3589c75436c4704b9b71cf4f927d7d4eeff1f4a4"
-    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+0/ReferenceBLAS.v3.12.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "6fed89099ff8b15a2e0e2134b97edd82d934c28d8361e6f8c252cbe1df15ce37"
+    url = "https://github.com/JuliaBinaryWrappers/ReferenceBLAS_jll.jl/releases/download/ReferenceBLAS-v3.12.0+1/ReferenceBLAS.v3.12.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
